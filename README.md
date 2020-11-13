@@ -1,1 +1,1 @@
-# UPVCoin
+# CoinT
